@@ -1,9 +1,8 @@
 # Welcome  to   NERetrieve!
 
 ## 📢 Announcement!
-
-**Great news!** The dataset and the code associated with this project will be uploaded in the next couple of days
-
+**Great news!** The dataset and the code associated with this project will be uploaded in the next couple of days<br><br>
+![entity_types](./assets/ontologies_3_cropped.svg)<br><br>
 📆 **Expected Release Date: November 01th, 2023** 
 
 ## How Can You Get Notified?
