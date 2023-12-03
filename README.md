@@ -4,11 +4,8 @@
 
 This is the source code of the NERretrieve paper:  [**NERetrieve: Dataset for Next Generation Named Entity Recognition and Retrieval**]([https://arxiv.org/abs/2105.07464](https://arxiv.org/abs/2310.14282)).
 
-<br><br>
-<p align="center">
-  <img src="./assets/NERetrieve_IR_river.svg",width="200",height="200">
-</p>
 
+<img src="./assets/NERetrieve_IR_river.svg" width="60%" align="center"/>
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* **Updates** \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
