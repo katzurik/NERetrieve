@@ -19,7 +19,7 @@ This is the source code of the NERretrieve paper:  [**NERetrieve: Dataset for Ne
 
 NERetrieve dataset is available in three distinct formats, catering to various use cases and research requirements:
 
-1. **Exhaustive Typed-Entity Mention Retrieval**
+1. [**Exhaustive Typed-Entity Mention Retrieval**](/Retrieval/IR_readme.md)
 
 2. **Fine-grained Supervised NER**: 
 
