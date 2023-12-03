@@ -1,13 +1,28 @@
-# Welcome  to   NERetrieve!
+# NERetrieve: Dataset for Next Generation Named Entity Recognition and Retrieval
 
-## 📢 Announcement!
-**Great news!** The dataset and the code associated with this project will be uploaded in the next couple of days<br><br>
-![entity_types](./assets/ontologies_3_cropped.svg)<br><br>
-📆 **Expected Release Date: November 01th, 2023** 
 
-## How Can You Get Notified?
 
-If you want to be the first to know when the dataset and code are released:
+This is the source code of the NERretrieve paper:  [**NERetrieve: Dataset for Next Generation Named Entity Recognition and Retrieval**]([https://arxiv.org/abs/2105.07464](https://arxiv.org/abs/2310.14282)).
 
-1. **Star** ⭐ this repository - this will also help increase the visibility for others!
-2. **Watch** 🔍 the repository. You can select the "Releases only" option if you're only interested in the dataset and code release notifications.
+<br><br>
+<p align="center">
+  <img src="./assets/ontologies_3_cropped.svg">
+</p>
+
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* **Updates** \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+- 03/12/2023: 🎉🎉🎉 NERetrieve paper was accepted to **Findings of EMNLP 2023** and will be presented during the BlackboxNLP 2023
+ poster session.🎉🎉🎉 
+
+## NERetrieve Dataset
+
+NERetrieve dataset is available in three distinct formats, catering to various use cases and research requirements:
+
+1. **Exhaustive Typed-Entity Mention Retrieval**
+
+2. **Fine-grained Supervised NER**: 
+
+3. **Zero-shot Fine-grained NER**
+
+For detailed information including data specifics, code, and results, please refer to the dedicated pages.
