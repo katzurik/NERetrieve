@@ -6,7 +6,7 @@ This is the source code of the NERretrieve paper:  [**NERetrieve: Dataset for Ne
 
 <br><br>
 <p align="center">
-  <img src="./assets/ontologies_3_cropped.svg">
+  <img src="./assets/NERetrieve_IR_river.svg">
 </p>
 
 
