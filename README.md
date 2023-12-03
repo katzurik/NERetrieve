@@ -21,7 +21,7 @@ NERetrieve dataset is available in three distinct formats, catering to various u
 
 1. [**Exhaustive Typed-Entity Mention Retrieval**](/Retrieval/IR_readme.md)
 
-2. **Fine-grained Supervised NER**:(/supervised_NER/sup_readme.md)
+2. [**Fine-grained Supervised NER**]:(/supervised_NER/sup_readme.md)
 
 3. **Zero-shot Fine-grained NER**
 
