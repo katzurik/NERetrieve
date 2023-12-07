@@ -6,10 +6,10 @@ TEST_SET_URL="https://storage.googleapis.com/neretrieve_dataset/supervised_ner/N
 
 # Download files
 echo "Downloading Train Set..."
-wget "$TRAIN_SET_URL" -O "NERetrive_IR_train.jsonl.bz2"
+wget "$TRAIN_SET_URL" -O "NERetrive_sup_train.jsonl.bz2"
 
 echo "Downloading Test Set..."
-wget "$TEST_SET_URL" -O "NERetrive_IR_test.jsonl.bz2" 
+wget "$TEST_SET_URL" -O "NERetrive_sup_test.jsonl.bz2" 
 
 # Unzip files
 
