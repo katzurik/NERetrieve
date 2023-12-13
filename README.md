@@ -2,7 +2,7 @@
 
 
 
-This is the source code of the NERretrieve paper:  [**NERetrieve: Dataset for Next Generation Named Entity Recognition and Retrieval**](https://arxiv.org/abs/2310.14282).
+This is the original code and dataset of the NERretrieve paper:  [**NERetrieve: Dataset for Next Generation Named Entity Recognition and Retrieval**](https://arxiv.org/abs/2310.14282).
 
 
 <img src="./assets/NERetrieve_IR_river.svg" width="60%" align="center"/>
